@@ -4,7 +4,7 @@
 2. rm -rf node_modules && rm package-lock.json && npm install<br />
 3. npm run dev<br />
 
-# DESIGNNavbar
+# DESIGNRive
 This project showcases how to integrate rive animation with react.<br />
 
 Learn more about Rive animation here:<br />
