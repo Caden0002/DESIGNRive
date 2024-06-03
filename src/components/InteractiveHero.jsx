@@ -28,7 +28,7 @@ function InteractiveHero(props) {
     }, []);
 
     return (
-        <div className={`relative min-h-screen flex`}>
+        <div className={`relative min-h-screen flex`} style={{ backgroundColor: '#f6dfbf' }}>
             <div className="container mx-auto flex justify-center items-center">
                 <Rive 
                     src="interactivehero.riv"
